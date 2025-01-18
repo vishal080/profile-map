@@ -1,5 +1,4 @@
-
-echo "# Profile Map Application
+# Profile Map Application
 
 A React-based web application for displaying and managing user profiles with interactive map integration.
 
